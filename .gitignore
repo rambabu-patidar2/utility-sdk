@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# ignore the npmrc also
+.npmrc
+
 # TypeScript build cache
 *.tsbuildinfo
 
